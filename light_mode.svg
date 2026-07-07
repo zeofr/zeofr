@@ -1,71 +1,155 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
-<style>
-@font-face {
-src: local('Consolas'), local('Consolas Bold');
-font-family: 'ConsolasFallback';
-font-display: swap;
--webkit-size-adjust: 109%;
-size-adjust: 109%;
-}
-.key {fill: #953800;}
-.value {fill: #0a3069;}
-.addColor {fill: #1a7f37;}
-.delColor {fill: #cf222e;}
-.cc {fill: #c2cfde;}
-text, tspan {white-space: pre;}
-</style>
-<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">            ;;,, ,;,|g;~,,                      </tspan>
-<tspan x="15" y="50">         ,g@@@@@@l&amp;$$$@|,w$$@gy,            </tspan>
-<tspan x="15" y="70">        $@@@@@@@@@@$@@@@@@@@$$MW$k              </tspan>
-<tspan x="15" y="90">       $$@@@@@@B@@@@@@@@@@@@@$@$$g,$            </tspan>
-<tspan x="15" y="110">     g@llM**'''||%@@@@@$@@$@@@@@@@L$&amp;      </tspan>
-<tspan x="15" y="130">   @$&amp;$F         ''T%M$@@@@@@@@@@@$@$@     </tspan>
-<tspan x="15" y="150">  @@@@F              ']@@@@@@$$@$@@@@          </tspan>
-<tspan x="15" y="170">  @@@$L               |$@@@$$l$@@@@$F          </tspan>
-<tspan x="15" y="190"> ]@@@@L ,@@$@@@@L  ,l@$$$$$$$$$@@@@@           </tspan>
-<tspan x="15" y="210">  %$@@@$}',,gg@||@@@@l@g@ggg|l$&amp;$@@$       </tspan>
-<tspan x="15" y="230">  ]@@@@@'"*TTTTT'F  ]Wl|||''"'$]@@@@ </tspan>
-<tspan x="15" y="250">   $$@M$       ,#    ]gg,,,,,.r'$@$            </tspan>
-<tspan x="15" y="270">    &amp;$L        ' ,, ,,,'T''`    $$L        </tspan>
-<tspan x="15" y="290">     lL         T"||||!   `-    l"'  </tspan>
-<tspan x="15" y="310">     ' |        '||l||||"|L|  L `         </tspan>
-<tspan x="15" y="330">      ''   '|L++=*****""*"||` L|</tspan>
-<tspan x="15" y="350">        |           ,,      |||F               </tspan>
-<tspan x="15" y="370">        '         |||||||| ||l$                </tspan>
-<tspan x="15" y="390">          !                |l&amp;L            </tspan>
-<tspan x="15" y="410">           '!,       |||,||@M|L                </tspan>
-<tspan x="15" y="430">            ||l&amp;$@$$@$$$@$MT|||            </tspan>
-<tspan x="15" y="450">         |    |||lll$$llll|||||L               </tspan>
-<tspan x="15" y="470">    ,;y@        ||||||l||@|||||l               </tspan>
-<tspan x="15" y="490">,g$@$$$@         |||||||||||||||| $g,          </tspan>
-<tspan x="15" y="510">$$$$$$$$@    |    |||||||||||||| |$$@g         </tspan>
-</text>
-<text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">andrew@grant</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10, Android 14, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">TTM Technologies, Inc.</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">CAM (Computer Aided Manufacturing) Operator</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">IDEA 2023.3.2, VSCode 1.96.0</tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Java, Python, JavaScript, C++</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English, Spanish</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Minecraft Modding, iOS Jailbreaking</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Overclocking, Undervolting</tspan>
-<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">agrantnmac@gmail.com</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">andrew@grant.software</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Andrew.Grant@ttmtech.com</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Andrew6rant</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">andrew6rant</tspan>
-<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">95</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">133</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">342</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">2,116</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">196</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">446,276</tspan> ( <tspan class="addColor" id="loc_add">523,178</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">76,902</tspan><tspan class="delColor">--</tspan> )
-</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 528" width="900" height="528">
+<defs>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Doto:wght@600;800&amp;family=Inter:wght@400;500;600&amp;display=swap');
+    .d-xl { font-family:'Doto',monospace; font-size:28px; font-weight:800; fill:#0A0A0A; letter-spacing:4px; }
+    .d-lg { font-family:'Doto',monospace; font-size:20px; font-weight:800; fill:#0A0A0A; letter-spacing:1px; }
+    .d-md { font-family:'Doto',monospace; font-size:13px; font-weight:600; fill:#0A0A0A; letter-spacing:2px; }
+    .d-sm { font-family:'Doto',monospace; font-size:10px; font-weight:600; fill:#333333; letter-spacing:1.5px; }
+    .lbl  { font-family:'Inter',sans-serif; font-size:9px;  font-weight:500; fill:#999999; letter-spacing:1.5px; }
+    .val  { font-family:'Inter',sans-serif; font-size:12px; font-weight:600; fill:#1A1A1A; }
+    .w    { fill:#F4F4F4; stroke:#E0E0E0; stroke-width:1; }
+    .ln   { stroke:#E0E0E0; stroke-width:1; fill:none; }
+  </style>
+  <clipPath id="c-hdr"><rect x="16"  y="16"  width="580" height="110" rx="16"/></clipPath>
+  <clipPath id="c-lft"><rect x="16"  y="140" width="440" height="300" rx="16"/></clipPath>
+  <clipPath id="c-rgt"><rect x="468" y="140" width="416" height="300" rx="16"/></clipPath>
+  <clipPath id="c-ftr"><rect x="16"  y="452" width="868" height="60"  rx="16"/></clipPath>
+</defs>
+
+<rect width="900" height="528" fill="#FAFAFA"/>
+
+<!-- W1 HEADER -->
+<rect x="16" y="16" width="580" height="110" rx="16" class="w"/>
+<g clip-path="url(#c-hdr)">
+  <circle cx="44" cy="47" r="5" fill="#FF2E2E"/>
+  <text x="60" y="54" class="d-xl">ZAID AHMAD</text>
+  <line x1="28" y1="65" x2="584" y2="65" class="ln"/>
+  <line x1="296" y1="67" x2="296" y2="124" class="ln"/>
+  <line x1="28"  y1="98" x2="584" y2="98"  class="ln"/>
+  <text x="36"  y="79"  class="lbl">OS</text>
+  <text x="36"  y="93"  class="d-sm">Windows 11  //  Pop!_OS</text>
+  <text x="308" y="79"  class="lbl">COLLEGE</text>
+  <text x="308" y="93"  class="d-sm">Ramaiah Inst. of Tech. // CSE</text>
+  <text x="36"  y="112" class="lbl">KERNEL</text>
+  <text x="36"  y="123" class="d-sm">Student</text>
+  <text x="308" y="112" class="lbl">IDE</text>
+  <text x="308" y="123" class="d-sm">VS Code  //  Kiro</text>
+</g>
+
+<!-- W2 ZA bg grid light mode — full 28×11 grid (added top row y=12 for vertical symmetry) -->
+<g fill="#CCCCCC">
+  <circle cx="614" cy="12" r="3.5"/><circle cx="624" cy="12" r="3.5"/><circle cx="634" cy="12" r="3.5"/><circle cx="644" cy="12" r="3.5"/><circle cx="654" cy="12" r="3.5"/><circle cx="664" cy="12" r="3.5"/><circle cx="674" cy="12" r="3.5"/><circle cx="684" cy="12" r="3.5"/><circle cx="694" cy="12" r="3.5"/><circle cx="704" cy="12" r="3.5"/><circle cx="714" cy="12" r="3.5"/><circle cx="724" cy="12" r="3.5"/><circle cx="734" cy="12" r="3.5"/><circle cx="744" cy="12" r="3.5"/><circle cx="754" cy="12" r="3.5"/><circle cx="764" cy="12" r="3.5"/><circle cx="774" cy="12" r="3.5"/><circle cx="784" cy="12" r="3.5"/><circle cx="794" cy="12" r="3.5"/><circle cx="804" cy="12" r="3.5"/><circle cx="814" cy="12" r="3.5"/><circle cx="824" cy="12" r="3.5"/><circle cx="834" cy="12" r="3.5"/><circle cx="844" cy="12" r="3.5"/><circle cx="854" cy="12" r="3.5"/><circle cx="864" cy="12" r="3.5"/><circle cx="874" cy="12" r="3.5"/><circle cx="884" cy="12" r="3.5"/>
+  <circle cx="614" cy="22" r="3.5"/><circle cx="624" cy="22" r="3.5"/><circle cx="634" cy="22" r="3.5"/><circle cx="644" cy="22" r="3.5"/><circle cx="654" cy="22" r="3.5"/><circle cx="664" cy="22" r="3.5"/><circle cx="674" cy="22" r="3.5"/><circle cx="684" cy="22" r="3.5"/><circle cx="694" cy="22" r="3.5"/><circle cx="704" cy="22" r="3.5"/><circle cx="714" cy="22" r="3.5"/><circle cx="724" cy="22" r="3.5"/><circle cx="734" cy="22" r="3.5"/><circle cx="744" cy="22" r="3.5"/><circle cx="754" cy="22" r="3.5"/><circle cx="764" cy="22" r="3.5"/><circle cx="774" cy="22" r="3.5"/><circle cx="784" cy="22" r="3.5"/><circle cx="794" cy="22" r="3.5"/><circle cx="804" cy="22" r="3.5"/><circle cx="814" cy="22" r="3.5"/><circle cx="824" cy="22" r="3.5"/><circle cx="834" cy="22" r="3.5"/><circle cx="844" cy="22" r="3.5"/><circle cx="854" cy="22" r="3.5"/><circle cx="864" cy="22" r="3.5"/><circle cx="874" cy="22" r="3.5"/><circle cx="884" cy="22" r="3.5"/>
+  <circle cx="614" cy="32" r="3.5"/><circle cx="624" cy="32" r="3.5"/><circle cx="634" cy="32" r="3.5"/><circle cx="644" cy="32" r="3.5"/><circle cx="654" cy="32" r="3.5"/><circle cx="664" cy="32" r="3.5"/><circle cx="674" cy="32" r="3.5"/><circle cx="684" cy="32" r="3.5"/><circle cx="694" cy="32" r="3.5"/><circle cx="704" cy="32" r="3.5"/><circle cx="714" cy="32" r="3.5"/><circle cx="724" cy="32" r="3.5"/><circle cx="734" cy="32" r="3.5"/><circle cx="744" cy="32" r="3.5"/><circle cx="754" cy="32" r="3.5"/><circle cx="764" cy="32" r="3.5"/><circle cx="774" cy="32" r="3.5"/><circle cx="784" cy="32" r="3.5"/><circle cx="794" cy="32" r="3.5"/><circle cx="804" cy="32" r="3.5"/><circle cx="814" cy="32" r="3.5"/><circle cx="824" cy="32" r="3.5"/><circle cx="834" cy="32" r="3.5"/><circle cx="844" cy="32" r="3.5"/><circle cx="854" cy="32" r="3.5"/><circle cx="864" cy="32" r="3.5"/><circle cx="874" cy="32" r="3.5"/><circle cx="884" cy="32" r="3.5"/>
+  <circle cx="614" cy="42" r="3.5"/><circle cx="624" cy="42" r="3.5"/><circle cx="634" cy="42" r="3.5"/><circle cx="644" cy="42" r="3.5"/><circle cx="654" cy="42" r="3.5"/><circle cx="664" cy="42" r="3.5"/><circle cx="674" cy="42" r="3.5"/><circle cx="684" cy="42" r="3.5"/><circle cx="694" cy="42" r="3.5"/><circle cx="704" cy="42" r="3.5"/><circle cx="714" cy="42" r="3.5"/><circle cx="724" cy="42" r="3.5"/><circle cx="734" cy="42" r="3.5"/><circle cx="744" cy="42" r="3.5"/><circle cx="754" cy="42" r="3.5"/><circle cx="764" cy="42" r="3.5"/><circle cx="774" cy="42" r="3.5"/><circle cx="784" cy="42" r="3.5"/><circle cx="794" cy="42" r="3.5"/><circle cx="804" cy="42" r="3.5"/><circle cx="814" cy="42" r="3.5"/><circle cx="824" cy="42" r="3.5"/><circle cx="834" cy="42" r="3.5"/><circle cx="844" cy="42" r="3.5"/><circle cx="854" cy="42" r="3.5"/><circle cx="864" cy="42" r="3.5"/><circle cx="874" cy="42" r="3.5"/><circle cx="884" cy="42" r="3.5"/>
+  <circle cx="614" cy="52" r="3.5"/><circle cx="624" cy="52" r="3.5"/><circle cx="634" cy="52" r="3.5"/><circle cx="644" cy="52" r="3.5"/><circle cx="654" cy="52" r="3.5"/><circle cx="664" cy="52" r="3.5"/><circle cx="674" cy="52" r="3.5"/><circle cx="684" cy="52" r="3.5"/><circle cx="694" cy="52" r="3.5"/><circle cx="704" cy="52" r="3.5"/><circle cx="714" cy="52" r="3.5"/><circle cx="724" cy="52" r="3.5"/><circle cx="734" cy="52" r="3.5"/><circle cx="744" cy="52" r="3.5"/><circle cx="754" cy="52" r="3.5"/><circle cx="764" cy="52" r="3.5"/><circle cx="774" cy="52" r="3.5"/><circle cx="784" cy="52" r="3.5"/><circle cx="794" cy="52" r="3.5"/><circle cx="804" cy="52" r="3.5"/><circle cx="814" cy="52" r="3.5"/><circle cx="824" cy="52" r="3.5"/><circle cx="834" cy="52" r="3.5"/><circle cx="844" cy="52" r="3.5"/><circle cx="854" cy="52" r="3.5"/><circle cx="864" cy="52" r="3.5"/><circle cx="874" cy="52" r="3.5"/><circle cx="884" cy="52" r="3.5"/>
+  <circle cx="614" cy="62" r="3.5"/><circle cx="624" cy="62" r="3.5"/><circle cx="634" cy="62" r="3.5"/><circle cx="644" cy="62" r="3.5"/><circle cx="654" cy="62" r="3.5"/><circle cx="664" cy="62" r="3.5"/><circle cx="674" cy="62" r="3.5"/><circle cx="684" cy="62" r="3.5"/><circle cx="694" cy="62" r="3.5"/><circle cx="704" cy="62" r="3.5"/><circle cx="714" cy="62" r="3.5"/><circle cx="724" cy="62" r="3.5"/><circle cx="734" cy="62" r="3.5"/><circle cx="744" cy="62" r="3.5"/><circle cx="754" cy="62" r="3.5"/><circle cx="764" cy="62" r="3.5"/><circle cx="774" cy="62" r="3.5"/><circle cx="784" cy="62" r="3.5"/><circle cx="794" cy="62" r="3.5"/><circle cx="804" cy="62" r="3.5"/><circle cx="814" cy="62" r="3.5"/><circle cx="824" cy="62" r="3.5"/><circle cx="834" cy="62" r="3.5"/><circle cx="844" cy="62" r="3.5"/><circle cx="854" cy="62" r="3.5"/><circle cx="864" cy="62" r="3.5"/><circle cx="874" cy="62" r="3.5"/><circle cx="884" cy="62" r="3.5"/>
+  <circle cx="614" cy="72" r="3.5"/><circle cx="624" cy="72" r="3.5"/><circle cx="634" cy="72" r="3.5"/><circle cx="644" cy="72" r="3.5"/><circle cx="654" cy="72" r="3.5"/><circle cx="664" cy="72" r="3.5"/><circle cx="674" cy="72" r="3.5"/><circle cx="684" cy="72" r="3.5"/><circle cx="694" cy="72" r="3.5"/><circle cx="704" cy="72" r="3.5"/><circle cx="714" cy="72" r="3.5"/><circle cx="724" cy="72" r="3.5"/><circle cx="734" cy="72" r="3.5"/><circle cx="744" cy="72" r="3.5"/><circle cx="754" cy="72" r="3.5"/><circle cx="764" cy="72" r="3.5"/><circle cx="774" cy="72" r="3.5"/><circle cx="784" cy="72" r="3.5"/><circle cx="794" cy="72" r="3.5"/><circle cx="804" cy="72" r="3.5"/><circle cx="814" cy="72" r="3.5"/><circle cx="824" cy="72" r="3.5"/><circle cx="834" cy="72" r="3.5"/><circle cx="844" cy="72" r="3.5"/><circle cx="854" cy="72" r="3.5"/><circle cx="864" cy="72" r="3.5"/><circle cx="874" cy="72" r="3.5"/><circle cx="884" cy="72" r="3.5"/>
+  <circle cx="614" cy="82" r="3.5"/><circle cx="624" cy="82" r="3.5"/><circle cx="634" cy="82" r="3.5"/><circle cx="644" cy="82" r="3.5"/><circle cx="654" cy="82" r="3.5"/><circle cx="664" cy="82" r="3.5"/><circle cx="674" cy="82" r="3.5"/><circle cx="684" cy="82" r="3.5"/><circle cx="694" cy="82" r="3.5"/><circle cx="704" cy="82" r="3.5"/><circle cx="714" cy="82" r="3.5"/><circle cx="724" cy="82" r="3.5"/><circle cx="734" cy="82" r="3.5"/><circle cx="744" cy="82" r="3.5"/><circle cx="754" cy="82" r="3.5"/><circle cx="764" cy="82" r="3.5"/><circle cx="774" cy="82" r="3.5"/><circle cx="784" cy="82" r="3.5"/><circle cx="794" cy="82" r="3.5"/><circle cx="804" cy="82" r="3.5"/><circle cx="814" cy="82" r="3.5"/><circle cx="824" cy="82" r="3.5"/><circle cx="834" cy="82" r="3.5"/><circle cx="844" cy="82" r="3.5"/><circle cx="854" cy="82" r="3.5"/><circle cx="864" cy="82" r="3.5"/><circle cx="874" cy="82" r="3.5"/><circle cx="884" cy="82" r="3.5"/>
+  <circle cx="614" cy="92" r="3.5"/><circle cx="624" cy="92" r="3.5"/><circle cx="634" cy="92" r="3.5"/><circle cx="644" cy="92" r="3.5"/><circle cx="654" cy="92" r="3.5"/><circle cx="664" cy="92" r="3.5"/><circle cx="674" cy="92" r="3.5"/><circle cx="684" cy="92" r="3.5"/><circle cx="694" cy="92" r="3.5"/><circle cx="704" cy="92" r="3.5"/><circle cx="714" cy="92" r="3.5"/><circle cx="724" cy="92" r="3.5"/><circle cx="734" cy="92" r="3.5"/><circle cx="744" cy="92" r="3.5"/><circle cx="754" cy="92" r="3.5"/><circle cx="764" cy="92" r="3.5"/><circle cx="774" cy="92" r="3.5"/><circle cx="784" cy="92" r="3.5"/><circle cx="794" cy="92" r="3.5"/><circle cx="804" cy="92" r="3.5"/><circle cx="814" cy="92" r="3.5"/><circle cx="824" cy="92" r="3.5"/><circle cx="834" cy="92" r="3.5"/><circle cx="844" cy="92" r="3.5"/><circle cx="854" cy="92" r="3.5"/><circle cx="864" cy="92" r="3.5"/><circle cx="874" cy="92" r="3.5"/><circle cx="884" cy="92" r="3.5"/>
+  <circle cx="614" cy="102" r="3.5"/><circle cx="624" cy="102" r="3.5"/><circle cx="634" cy="102" r="3.5"/><circle cx="644" cy="102" r="3.5"/><circle cx="654" cy="102" r="3.5"/><circle cx="664" cy="102" r="3.5"/><circle cx="674" cy="102" r="3.5"/><circle cx="684" cy="102" r="3.5"/><circle cx="694" cy="102" r="3.5"/><circle cx="704" cy="102" r="3.5"/><circle cx="714" cy="102" r="3.5"/><circle cx="724" cy="102" r="3.5"/><circle cx="734" cy="102" r="3.5"/><circle cx="744" cy="102" r="3.5"/><circle cx="754" cy="102" r="3.5"/><circle cx="764" cy="102" r="3.5"/><circle cx="774" cy="102" r="3.5"/><circle cx="784" cy="102" r="3.5"/><circle cx="794" cy="102" r="3.5"/><circle cx="804" cy="102" r="3.5"/><circle cx="814" cy="102" r="3.5"/><circle cx="824" cy="102" r="3.5"/><circle cx="834" cy="102" r="3.5"/><circle cx="844" cy="102" r="3.5"/><circle cx="854" cy="102" r="3.5"/><circle cx="864" cy="102" r="3.5"/><circle cx="874" cy="102" r="3.5"/><circle cx="884" cy="102" r="3.5"/>
+  <circle cx="614" cy="112" r="3.5"/><circle cx="624" cy="112" r="3.5"/><circle cx="634" cy="112" r="3.5"/><circle cx="644" cy="112" r="3.5"/><circle cx="654" cy="112" r="3.5"/><circle cx="664" cy="112" r="3.5"/><circle cx="674" cy="112" r="3.5"/><circle cx="684" cy="112" r="3.5"/><circle cx="694" cy="112" r="3.5"/><circle cx="704" cy="112" r="3.5"/><circle cx="714" cy="112" r="3.5"/><circle cx="724" cy="112" r="3.5"/><circle cx="734" cy="112" r="3.5"/><circle cx="744" cy="112" r="3.5"/><circle cx="754" cy="112" r="3.5"/><circle cx="764" cy="112" r="3.5"/><circle cx="774" cy="112" r="3.5"/><circle cx="784" cy="112" r="3.5"/><circle cx="794" cy="112" r="3.5"/><circle cx="804" cy="112" r="3.5"/><circle cx="814" cy="112" r="3.5"/><circle cx="824" cy="112" r="3.5"/><circle cx="834" cy="112" r="3.5"/><circle cx="844" cy="112" r="3.5"/><circle cx="854" cy="112" r="3.5"/><circle cx="864" cy="112" r="3.5"/><circle cx="874" cy="112" r="3.5"/><circle cx="884" cy="112" r="3.5"/>
+</g>
+
+<!-- DARK dots for Z and A on light bg — shifted +50px to centre -->
+<g transform="translate(40,10)">
+<g fill="#1A1A1A">
+  <!-- Z top bar rows 0,1 -->
+  <circle cx="614" cy="22" r="3.5"/><circle cx="624" cy="22" r="3.5"/><circle cx="634" cy="22" r="3.5"/><circle cx="644" cy="22" r="3.5"/><circle cx="654" cy="22" r="3.5"/><circle cx="664" cy="22" r="3.5"/><circle cx="674" cy="22" r="3.5"/><circle cx="684" cy="22" r="3.5"/><circle cx="694" cy="22" r="3.5"/>
+  <circle cx="614" cy="32" r="3.5"/><circle cx="624" cy="32" r="3.5"/><circle cx="634" cy="32" r="3.5"/><circle cx="644" cy="32" r="3.5"/><circle cx="654" cy="32" r="3.5"/><circle cx="664" cy="32" r="3.5"/><circle cx="674" cy="32" r="3.5"/><circle cx="684" cy="32" r="3.5"/><circle cx="694" cy="32" r="3.5"/>
+  <!-- Z diagonal -->
+  <circle cx="674" cy="42" r="3.5"/><circle cx="684" cy="42" r="3.5"/><circle cx="694" cy="42" r="3.5"/>
+  <circle cx="654" cy="52" r="3.5"/><circle cx="664" cy="52" r="3.5"/><circle cx="674" cy="52" r="3.5"/>
+  <circle cx="644" cy="62" r="3.5"/><circle cx="654" cy="62" r="3.5"/><circle cx="664" cy="62" r="3.5"/>
+  <circle cx="634" cy="72" r="3.5"/><circle cx="644" cy="72" r="3.5"/><circle cx="654" cy="72" r="3.5"/>
+  <circle cx="614" cy="82" r="3.5"/><circle cx="624" cy="82" r="3.5"/><circle cx="634" cy="82" r="3.5"/>
+  <!-- Z bottom bar rows 7,8 — last 2 dots red -->
+  <circle cx="614" cy="92" r="3.5"/><circle cx="624" cy="92" r="3.5"/><circle cx="634" cy="92" r="3.5"/><circle cx="644" cy="92" r="3.5"/><circle cx="654" cy="92" r="3.5"/><circle cx="664" cy="92" r="3.5"/><circle cx="674" cy="92" r="3.5"/><circle cx="684" cy="92" r="3.5"/><circle cx="694" cy="92" r="3.5"/>
+  <circle cx="614" cy="102" r="3.5"/><circle cx="624" cy="102" r="3.5"/><circle cx="634" cy="102" r="3.5"/><circle cx="644" cy="102" r="3.5"/><circle cx="654" cy="102" r="3.5"/><circle cx="664" cy="102" r="3.5"/><circle cx="674" cy="102" r="3.5"/><circle cx="684" cy="102" r="3.5" fill="#FF2E2E"/><circle cx="694" cy="102" r="3.5" fill="#FF2E2E"/>
+  <!-- A peak rows 0,1 -->
+  <circle cx="744" cy="22" r="3.5"/><circle cx="754" cy="22" r="3.5"/><circle cx="764" cy="22" r="3.5"/>
+  <circle cx="734" cy="32" r="3.5"/><circle cx="744" cy="32" r="3.5"/><circle cx="754" cy="32" r="3.5"/><circle cx="764" cy="32" r="3.5"/><circle cx="774" cy="32" r="3.5"/>
+  <!-- A sides rows 2,3 -->
+  <circle cx="714" cy="42" r="3.5"/><circle cx="724" cy="42" r="3.5"/><circle cx="784" cy="42" r="3.5"/><circle cx="794" cy="42" r="3.5"/>
+  <circle cx="714" cy="52" r="3.5"/><circle cx="724" cy="52" r="3.5"/><circle cx="784" cy="52" r="3.5"/><circle cx="794" cy="52" r="3.5"/>
+  <!-- A crossbar rows 4,5 -->
+  <circle cx="714" cy="62" r="3.5"/><circle cx="724" cy="62" r="3.5"/><circle cx="734" cy="62" r="3.5"/><circle cx="744" cy="62" r="3.5"/><circle cx="754" cy="62" r="3.5"/><circle cx="764" cy="62" r="3.5"/><circle cx="774" cy="62" r="3.5"/><circle cx="784" cy="62" r="3.5"/><circle cx="794" cy="62" r="3.5"/>
+  <circle cx="714" cy="72" r="3.5"/><circle cx="724" cy="72" r="3.5"/><circle cx="734" cy="72" r="3.5"/><circle cx="744" cy="72" r="3.5"/><circle cx="754" cy="72" r="3.5"/><circle cx="764" cy="72" r="3.5"/><circle cx="774" cy="72" r="3.5"/><circle cx="784" cy="72" r="3.5"/><circle cx="794" cy="72" r="3.5"/>
+  <!-- A legs rows 6,7,8 — last 2 dots red -->
+  <circle cx="714" cy="82" r="3.5"/><circle cx="724" cy="82" r="3.5"/><circle cx="784" cy="82" r="3.5"/><circle cx="794" cy="82" r="3.5"/>
+  <circle cx="714" cy="92" r="3.5"/><circle cx="724" cy="92" r="3.5"/><circle cx="784" cy="92" r="3.5"/><circle cx="794" cy="92" r="3.5"/>
+  <circle cx="714" cy="102" r="3.5"/><circle cx="724" cy="102" r="3.5"/><circle cx="784" cy="102" r="3.5" fill="#FF2E2E"/><circle cx="794" cy="102" r="3.5" fill="#FF2E2E"/>
+</g>
+</g>
+<!-- end ZA letters -->
+
+
+
+<!-- W3 LEFT PANEL -->
+<rect x="16" y="140" width="440" height="300" rx="16" class="w"/>
+<g clip-path="url(#c-lft)">
+  <text x="36" y="168" class="lbl">LANGUAGES</text>
+  <line x1="36" y1="174" x2="440" y2="174" class="ln"/>
+  <text x="36"  y="190" class="lbl">PROGRAMMING</text>
+  <text x="36"  y="206" class="val">Python  ·  Java  ·  C  ·  JS</text>
+  <text x="238" y="190" class="lbl">MARKUP / CONFIG</text>
+  <text x="238" y="206" class="val">HTML  ·  CSS  ·  JSON  ·  YAML</text>
+  <line x1="36" y1="218" x2="440" y2="218" class="ln"/>
+  <text x="36"  y="232" class="lbl">SPOKEN</text>
+  <text x="36"  y="248" class="val">English  ·  Hindi  ·  Urdu</text>
+  <line x1="36" y1="260" x2="440" y2="260" class="ln"/>
+  <text x="36"  y="274" class="lbl">UPTIME</text>
+  <text x="36"  y="292" class="d-md" id="age_data">-- years, -- months, -- days</text>
+  <line x1="36" y1="304" x2="440" y2="304" class="ln"/>
+  <text x="36"  y="318" class="lbl">FOCUS</text>
+  <text x="36"  y="334" class="val">CTF  ·  Web Development  ·  GenAI</text>
+  <line x1="36" y1="346" x2="440" y2="346" class="ln"/>
+  <text x="36"  y="360" class="lbl">PERSONAL</text>
+  <text x="36"  y="376" class="val">Cooking  ·  Sleeping</text>
+</g>
+
+<!-- W4 RIGHT PANEL -->
+<rect x="468" y="140" width="416" height="300" rx="16" class="w"/>
+<g clip-path="url(#c-rgt)">
+  <text x="488" y="168" class="lbl">GITHUB ANALYTICS</text>
+  <line x1="488" y1="174" x2="868" y2="174" class="ln"/>
+  <text x="488" y="192" class="lbl">COMMITS</text>
+  <text x="488" y="218" class="d-lg" id="commit_data">----</text>
+  <line x1="488" y1="228" x2="868" y2="228" class="ln"/>
+  <text x="488" y="246" class="lbl">REPOS</text>
+  <text x="488" y="270" class="d-lg" id="repo_data">--</text>
+  <line x1="678" y1="234" x2="678" y2="280" class="ln"/>
+  <text x="698" y="246" class="lbl">STARS</text>
+  <text x="698" y="270" class="d-lg" id="star_data">--</text>
+  <line x1="488" y1="282" x2="868" y2="282" class="ln"/>
+  <text x="488" y="300" class="lbl">FOLLOWERS</text>
+  <text x="488" y="324" class="d-lg" id="follower_data">--</text>
+  <line x1="678" y1="288" x2="678" y2="334" class="ln"/>
+  <text x="698" y="300" class="lbl">CONTRIB</text>
+  <text x="698" y="324" class="d-lg" id="contrib_data">--</text>
+  <line x1="488" y1="336" x2="868" y2="336" class="ln"/>
+  <text x="488" y="354" class="lbl">LINES OF CODE</text>
+  <text x="488" y="378" class="d-md" id="loc_data">-------</text>
+  <text x="488" y="402" font-family="'Inter',sans-serif" font-size="10" font-weight="600" fill="#1a7f37" id="loc_add">0</text>
+  <text x="508" y="402" font-family="'Inter',sans-serif" font-size="10" fill="#1a7f37">++</text>
+  <text x="548" y="402" font-family="'Inter',sans-serif" font-size="10" font-weight="600" fill="#cf222e" id="loc_del">0</text>
+  <text x="568" y="402" font-family="'Inter',sans-serif" font-size="10" fill="#cf222e">--</text>
+  <text x="488" y="424" class="lbl" id="acc_date">SINCE --</text>
+</g>
+
+<!-- W5 FOOTER -->
+<rect x="16" y="452" width="868" height="60" rx="16" class="w"/>
+<g clip-path="url(#c-ftr)">
+  <text x="44"  y="474" class="lbl">EMAIL</text>
+  <text x="44"  y="497" class="d-sm">legitzeo@gmail.com</text>
+  <line x1="305" y1="460" x2="305" y2="504" class="ln"/>
+  <text x="325" y="474" class="lbl">LINKEDIN</text>
+  <text x="325" y="497" class="d-sm">ahmxd-zaid</text>
+  <line x1="594" y1="460" x2="594" y2="504" class="ln"/>
+  <text x="614" y="474" class="lbl">GITHUB</text>
+  <text x="614" y="497" class="d-sm">zeofr</text>
+</g>
+
 </svg>
