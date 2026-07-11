@@ -192,7 +192,7 @@
   <text x="36" y="248" class="val">English  ·  Hindi  ·  Urdu</text>
   <line x1="36" y1="260" x2="440" y2="260" class="ln"/>
   <text x="36" y="274" class="lbl">UPTIME</text>
-  <text x="36" y="292" class="d-md" id="age_data">21 years, 10 months, 21 days</text>
+  <text x="36" y="292" class="d-md" id="age_data">21 years, 10 months, 22 days</text>
   <line x1="36" y1="304" x2="440" y2="304" class="ln"/>
   <text x="36" y="318" class="lbl">FOCUS</text>
   <text x="36" y="334" class="val">CTF  ·  Web Development  ·  GenAI</text>
@@ -209,7 +209,7 @@
   <text x="488" y="168" class="lbl">GITHUB ANALYTICS</text>
   <line x1="488" y1="174" x2="868" y2="174" class="ln"/>
   <text x="488" y="192" class="lbl">COMMITS</text>
-  <text x="488" y="218" class="d-lg" id="commit_data">284</text>
+  <text x="488" y="218" class="d-lg" id="commit_data">321</text>
   <line x1="488" y1="228" x2="868" y2="228" class="ln"/>
   <text x="488" y="246" class="lbl">REPOS</text>
   <text x="488" y="270" class="d-lg" id="repo_data">23</text>
@@ -224,10 +224,10 @@
   <text x="698" y="324" class="d-lg" id="contrib_data">46</text>
   <line x1="488" y1="336" x2="868" y2="336" class="ln"/>
   <text x="488" y="354" class="lbl">LINES OF CODE</text>
-  <text x="488" y="378" class="d-md" id="loc_data">1,029,686</text>
-  <text x="488" y="402" font-family="'Inter',sans-serif" font-size="10" font-weight="600" fill="#3FB950" id="loc_add">1,033,029</text>
+  <text x="488" y="378" class="d-md" id="loc_data">1,030,708</text>
+  <text x="488" y="402" font-family="'Inter',sans-serif" font-size="10" font-weight="600" fill="#3FB950" id="loc_add">1,034,055</text>
   <text x="508" y="402" font-family="'Inter',sans-serif" font-size="10" fill="#3FB950">++</text>
-  <text x="548" y="402" font-family="'Inter',sans-serif" font-size="10" font-weight="600" fill="#F85149" id="loc_del">3,343</text>
+  <text x="548" y="402" font-family="'Inter',sans-serif" font-size="10" font-weight="600" fill="#F85149" id="loc_del">3,347</text>
   <text x="568" y="402" font-family="'Inter',sans-serif" font-size="10" fill="#F85149">--</text>
   <text x="488" y="424" class="lbl" id="acc_date">JAN 2024</text>
 </g>
