@@ -106,7 +106,7 @@
   <text x="36" y="248" class="val">English  ·  Hindi  ·  Urdu</text>
   <line x1="36" y1="260" x2="440" y2="260" class="ln"/>
   <text x="36" y="274" class="lbl">UPTIME</text>
-  <text x="36" y="292" class="d-md" id="age_data">21 years, 10 months, 24 days</text>
+  <text x="36" y="292" class="d-md" id="age_data">21 years, 10 months, 25 days</text>
   <line x1="36" y1="304" x2="440" y2="304" class="ln"/>
   <text x="36" y="318" class="lbl">FOCUS</text>
   <text x="36" y="334" class="val">CTF  ·  Web Development  ·  GenAI</text>
