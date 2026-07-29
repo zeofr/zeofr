@@ -254,8 +254,13 @@ def force_close_file(data, cache_comment):
 
 def stars_counter(data):
     total_stars = 0
-    for node in data:
-        total_stars += node['node']['stargazers']['totalCount']
+    for edge in data:
+        # Repository connection edges can have a null node when a repository
+        # becomes unavailable between GitHub resolving the connection and the
+        # query response (for example, after deletion or an access change).
+        repository = edge.get('node')
+        if repository is not None:
+            total_stars += repository['stargazers']['totalCount']
     return total_stars
 
 
