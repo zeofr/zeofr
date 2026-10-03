@@ -106,7 +106,7 @@
   <text x="36" y="248" class="val">English  ·  Hindi  ·  Urdu</text>
   <line x1="36" y1="260" x2="440" y2="260" class="ln"/>
   <text x="36" y="274" class="lbl">UPTIME</text>
-  <text x="36" y="292" class="d-md" id="age_data">22 years, 1 month, 13 days</text>
+  <text x="36" y="292" class="d-md" id="age_data">22 years, 1 month, 14 days</text>
   <line x1="36" y1="304" x2="440" y2="304" class="ln"/>
   <text x="36" y="318" class="lbl">FOCUS</text>
   <text x="36" y="334" class="val">CTF  ·  Web Development  ·  GenAI</text>
@@ -130,7 +130,7 @@
   <text x="698" y="270" class="d-lg" id="star_data">0</text>
   <line x1="488" y1="282" x2="868" y2="282" class="ln"/>
   <text x="488" y="300" class="lbl">FOLLOWERS</text>
-  <text x="488" y="324" class="d-lg" id="follower_data">12</text>
+  <text x="488" y="324" class="d-lg" id="follower_data">13</text>
   <line x1="678" y1="288" x2="678" y2="334" class="ln"/>
   <text x="698" y="300" class="lbl">CONTRIB</text>
   <text x="698" y="324" class="d-lg" id="contrib_data">49</text>
